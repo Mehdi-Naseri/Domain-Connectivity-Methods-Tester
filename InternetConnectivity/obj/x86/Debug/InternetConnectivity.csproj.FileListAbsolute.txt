@@ -1,0 +1,13 @@
+F:\Mehdi PC\_Programming\Mehdi Projects\WPF\InternetConnectivity\InternetConnectivity_0.0.0.2\InternetConnectivity\bin\Debug\InternetConnectivity.exe
+F:\Mehdi PC\_Programming\Mehdi Projects\WPF\InternetConnectivity\InternetConnectivity_0.0.0.2\InternetConnectivity\bin\Debug\InternetConnectivity.pdb
+F:\Mehdi PC\_Programming\Mehdi Projects\WPF\InternetConnectivity\InternetConnectivity_0.0.0.2\InternetConnectivity\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Mehdi PC\_Programming\Mehdi Projects\WPF\InternetConnectivity\InternetConnectivity_0.0.0.2\InternetConnectivity\obj\x86\Debug\MainWindow.baml
+F:\Mehdi PC\_Programming\Mehdi Projects\WPF\InternetConnectivity\InternetConnectivity_0.0.0.2\InternetConnectivity\obj\x86\Debug\MainWindow.g.cs
+F:\Mehdi PC\_Programming\Mehdi Projects\WPF\InternetConnectivity\InternetConnectivity_0.0.0.2\InternetConnectivity\obj\x86\Debug\App.g.cs
+F:\Mehdi PC\_Programming\Mehdi Projects\WPF\InternetConnectivity\InternetConnectivity_0.0.0.2\InternetConnectivity\obj\x86\Debug\InternetConnectivity_MarkupCompile.cache
+F:\Mehdi PC\_Programming\Mehdi Projects\WPF\InternetConnectivity\InternetConnectivity_0.0.0.2\InternetConnectivity\obj\x86\Debug\InternetConnectivity.g.resources
+F:\Mehdi PC\_Programming\Mehdi Projects\WPF\InternetConnectivity\InternetConnectivity_0.0.0.2\InternetConnectivity\obj\x86\Debug\InternetConnectivity.Properties.Resources.resources
+F:\Mehdi PC\_Programming\Mehdi Projects\WPF\InternetConnectivity\InternetConnectivity_0.0.0.2\InternetConnectivity\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\Mehdi PC\_Programming\Mehdi Projects\WPF\InternetConnectivity\InternetConnectivity_0.0.0.2\InternetConnectivity\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\Mehdi PC\_Programming\Mehdi Projects\WPF\InternetConnectivity\InternetConnectivity_0.0.0.2\InternetConnectivity\obj\x86\Debug\InternetConnectivity.exe
+F:\Mehdi PC\_Programming\Mehdi Projects\WPF\InternetConnectivity\InternetConnectivity_0.0.0.2\InternetConnectivity\obj\x86\Debug\InternetConnectivity.pdb
